@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 // import logo from '../logo.svg';
-import {ContainerButton} from './Styled-button';
-import styled from 'styled-components';
-import { link } from 'fs';
 import './FrontPage.css';
 
 export default class FrontPage extends Component {
