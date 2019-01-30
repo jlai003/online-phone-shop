@@ -9,9 +9,9 @@
 body{
 font-family: 'Oswald', sans-serif !important;
 /* font-family: 'Pacifico', cursive;  */
-background: url('./img/shell-handicrafts.jpg') !important;
+/* background: url('./img/shell-handicrafts.jpg') !important; */
    
-/* background: var(--mainWhite) !important; */
+background: var(--mainWhite) !important;
 color: var(--mainBlack) !important;
 }
 .text-title {
